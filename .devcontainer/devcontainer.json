@@ -33,7 +33,9 @@
         "ms-dotnettools.csharp",
         "ms-azuretools.vscode-bicep",
         "ms-azuretools.azure-dev",
-        "ms-azuretools.vscode-azureappservice"
+        "ms-azuretools.vscode-azureappservice",
+        "ise-hve-essentials.hve-jira",
+        "ise-hve-essentials.hve-core-all"
       ]
     }
   },
