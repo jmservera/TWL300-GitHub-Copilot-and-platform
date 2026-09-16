@@ -34,3 +34,9 @@
 - When a requirement or architectural decision is changed, trace it back to the source Confluence page before editing the repository.
 - When creating or updating artifacts in the repository, treat them as drafts unless the relevant Confluence page explicitly marks them as approved or authoritative.
 - If a source dependency cannot be verified, say so plainly and request the missing source material.
+
+## Copilot tracking artifacts
+
+- Keep `.copilot-tracking/` and all files beneath it available for version control.
+- Do not add `.copilot-tracking/` or any of its contents to `.gitignore`, `.git/info/exclude`, or other ignore rules.
+- Apply the repository's data handling and secret-management requirements to all tracked artifacts.
