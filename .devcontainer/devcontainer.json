@@ -38,8 +38,8 @@
         "ms-azuretools.vscode-bicep",
         "ms-azuretools.azure-dev",
         "ms-azuretools.vscode-azureappservice",
-        "ise-hve-essentials.hve-jira",
-        "ise-hve-essentials.hve-core-all"
+        "ise-hve-essentials.hve-jira@3.3.101",
+        "ise-hve-essentials.hve-core-all@3.3.101"
       ]
     }
   },
